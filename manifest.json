@@ -1,13 +1,7 @@
 {
-    "name": "akuafo_business",
-    "short_name": "akuafo_business",
-    "start_url": ".",
-    "display": "standalone",
     "background_color": "#0175C2",
-    "theme_color": "#0175C2",
     "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
-    "prefer_related_applications": false,
+    "display": "standalone",
     "icons": [
         {
             "src": "icons/Icon-192.png",
@@ -31,5 +25,11 @@
             "type": "image/png",
             "purpose": "maskable"
         }
-    ]
+    ],
+    "name": "akuafo_business",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "short_name": "akuafo_business",
+    "start_url": ".",
+    "theme_color": "#0175C2"
 }
